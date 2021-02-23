@@ -2,6 +2,6 @@
   (lib (name "Squid60-cache")(type "Legacy")(uri "${KIPRJMOD}/from_squid60/Squid60-cache.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/from_squid60/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/from_squid60/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/from_squid60/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/from_squid60/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.kicad_sym")(options "")(descr ""))
   (lib (name "Squid60-rescue")(type "Legacy")(uri "${KIPRJMOD}/from_squid60/Squid60-rescue.lib")(options "")(descr ""))
 )
